@@ -5,17 +5,6 @@ modularidad, encapsulación y reutilización.
 
 ---
 
-## Contenido por semana
-
-| Semana | Tema | Descripción |
-|--------|------|-------------|
-| `semana-01/` | El concepto de componente | Definición, características, encapsulación, modularidad, reutilización |
-| `semana-02/` | Diseño de componentes | Clases modelo, patrón MVC, CRUD, Scanner, menús interactivos |
-| `semana-03/` | Proceso de desarrollo | Componente Calculadora exportado como `.jar`, proyecto consumidor |
-| `semana-04/` | Componentes con MongoDB | Componente de bitácora de errores via API REST, HttpClient, MongoDB Atlas |
-
----
-
 ## Temas del curso
 
 1. El concepto de componente
